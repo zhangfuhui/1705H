@@ -7,7 +7,7 @@ public class StringTest {
 	public static void main(String[] args) {
 //		String a = "15935457350";
 //		String b = "48651324851";
-//		boolean phone = StringUtil.isPhone(a);
+//		boolean phone = StringUtil.isPhone(b);
 //		System.out.println(phone);
 		
 //		String a = "2509049221@qq.com";
